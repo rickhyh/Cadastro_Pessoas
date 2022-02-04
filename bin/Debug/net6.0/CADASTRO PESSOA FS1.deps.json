@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CADASTRO PESSOA FS1/1.0.0": {
+        "runtime": {
+          "CADASTRO PESSOA FS1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CADASTRO PESSOA FS1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

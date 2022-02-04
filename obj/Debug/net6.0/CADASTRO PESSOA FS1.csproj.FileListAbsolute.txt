@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\obj\Debug\net6.0\CADASTRO PESSOA FS1.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\obj\Debug\net6.0\CADASTRO PESSOA FS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\obj\Debug\net6.0\CADASTRO PESSOA FS1.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\obj\Debug\net6.0\CADASTRO PESSOA FS1.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\obj\Debug\net6.0\CADASTRO PESSOA FS1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\bin\Debug\net6.0\CADASTRO PESSOA FS1.exe
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\bin\Debug\net6.0\CADASTRO PESSOA FS1.deps.json
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\bin\Debug\net6.0\CADASTRO PESSOA FS1.runtimeconfig.json
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\bin\Debug\net6.0\CADASTRO PESSOA FS1.dll
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\bin\Debug\net6.0\ref\CADASTRO PESSOA FS1.dll
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\bin\Debug\net6.0\CADASTRO PESSOA FS1.pdb
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\obj\Debug\net6.0\CADASTRO PESSOA FS1.dll
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\obj\Debug\net6.0\ref\CADASTRO PESSOA FS1.dll
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\obj\Debug\net6.0\CADASTRO PESSOA FS1.pdb
+C:\Users\Administrador\Desktop\pessoal\Senai_backend\CADASTRO PESSOA FS1\obj\Debug\net6.0\CADASTRO PESSOA FS1.genruntimeconfig.cache
