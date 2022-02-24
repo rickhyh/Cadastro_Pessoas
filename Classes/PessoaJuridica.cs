@@ -14,13 +14,28 @@ namespace Cadastro_Pessoa_FS1.Classes
 
         public override float PagarImposto(float rendimento)
         {
-            throw new NotImplementedException();
+            if (rendimento <= 3000)
+            {
+                return rendimento * .03f;
+            }
+            else if (rendimento > 3000 && rendimento <= 6000)
+            {
+                return rendimento * .05f;
+            }
+            else if (rendimento > 6000 && rendimento < 10000)
+            {
+                return rendimento * .07f;
+            }
+            else
+            {
+                return rendimento * .09f;
+            }
         }
         
         //Formato CNPJ -> XX.XXX.XXX/XXXX-XX - XXXXXXXXXXXXX
         public bool ValidarCnpj(string cnpj)
         {
-            if (Regex.IsMatch(cnpj, @"(^(\d{2}.\d{3}.\d{3}/\d{4}-\d{2})|(\d{14})$)"))
+            if (Regex.IsMatch(cnpj, @"(^(\d{2}\.\d{3}\.\d{3}\/\d{4}-\d{2})|(\d{14})$)"))
             {
                 if (cnpj.Length == 18)
                 {
